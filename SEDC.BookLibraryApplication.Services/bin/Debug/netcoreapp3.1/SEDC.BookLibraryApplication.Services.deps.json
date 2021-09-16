@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.BookLibraryApplication.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.BookLibraryApplication.DataAccess": "1.0.0",
+          "SEDC.BookLibraryApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.BookLibraryApplication.Services.dll": {}
+        }
+      },
+      "SEDC.BookLibraryApplication.DataAccess/1.0.0": {
+        "dependencies": {
+          "SEDC.BookLibraryApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.BookLibraryApplication.DataAccess.dll": {}
+        }
+      },
+      "SEDC.BookLibraryApplication.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.BookLibraryApplication.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.BookLibraryApplication.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.BookLibraryApplication.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.BookLibraryApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

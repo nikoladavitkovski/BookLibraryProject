@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SEDC.BookLibraryApplication.DataAccess\SEDC.BookLibraryApplication.DataAccess.csproj" />
+    <ProjectReference Include="..\SEDC.BookLibraryApplication.Domain\SEDC.BookLibraryApplication.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

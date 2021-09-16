@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.deps.json
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.DataAccess\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.pdb

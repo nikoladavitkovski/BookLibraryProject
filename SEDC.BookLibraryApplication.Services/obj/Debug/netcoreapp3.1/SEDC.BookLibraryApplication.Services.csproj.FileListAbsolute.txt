@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.deps.json
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.csproj.CopyComplete
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Services.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Services\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.DataAccess.pdb

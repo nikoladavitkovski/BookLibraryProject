@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.deps.json
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\bin\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.pdb
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.dll
+C:\Users\User\source\repos\SEDC.BookLibraryApplication\SEDC.BookLibraryApplication.Domain\obj\Debug\netcoreapp3.1\SEDC.BookLibraryApplication.Domain.pdb
